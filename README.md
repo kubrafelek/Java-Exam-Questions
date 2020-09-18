@@ -1,2 +1,2 @@
 # Java-Exam-Questions
-Procedural Programming Exam Questions
+Programming Exam Questions
